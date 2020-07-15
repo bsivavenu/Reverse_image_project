@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hulk-css/Desktop/Reverse_image_project/checkpoints/fashion-mnist.chkpt"
+all_model_checkpoint_paths: "/home/hulk-css/Desktop/Reverse_image_project/checkpoints/fashion-mnist.chkpt"
